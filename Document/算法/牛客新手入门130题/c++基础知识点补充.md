@@ -62,3 +62,8 @@ cout << fixed << setprecision(3) << x << endl;
 |   向下取整   | `floor(x)` | ![img](https://www.nowcoder.com/equation?tex=%20%5Clfloor%20x%20%5Crfloor&preview=true) | floor(-7.6) (结果为 ![img](https://www.nowcoder.com/equation?tex=-8&preview=true)) |
 |   四舍五入   | `round(x)` | ![img](https://www.nowcoder.com/equation?tex=%5B%20x%20%5D&preview=true) | round(-7.6) (结果为 ![img](https://www.nowcoder.com/equation?tex=-8&preview=true)) |
 |    幂函数    | `pow(a,b)` | ![img](https://www.nowcoder.com/equation?tex=a%5Eb&preview=true) | pow(2,6) (结果为 ![img](https://www.nowcoder.com/equation?tex=64&preview=true)) |
+
+#### 5、循环控制语句
+
+- break：立即退出当前循环，不在执行循环中剩余语句。
+- continue：跳过当前循环的剩余语句，直接进入下一次循环。
