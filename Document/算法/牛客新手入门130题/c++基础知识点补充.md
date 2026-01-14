@@ -51,3 +51,14 @@ cout << fixed << setprecision(3) << x << endl;
 
 - 字符是char，就是单个字符例如n；用cin或getchar输入
 - 字符串是string，一个串，如nowcode；用cin输入；
+
+#### 4、常用数学函数
+
+| 数学函数名称 |   函数名   |                           计算结果                           |                             举例                             |
+| :----------: | :--------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|     根号     | `sqrt(x)`  | ![img](https://www.nowcoder.com/equation?tex=%5Csqrt%7Bx%7D&preview=true) | sqrt(9) (结果为 ![img](https://www.nowcoder.com/equation?tex=3&preview=true)) |
+|    绝对值    | `fabs(x)`  | ![img](https://www.nowcoder.com/equation?tex=%20%5C%7C%20x%20%5C%7C&preview=true) | fabs(-7.6) (结果为 ![img](https://www.nowcoder.com/equation?tex=7.6&preview=true)) |
+|   向上取整   | `ceil(x)`  | ![img](https://www.nowcoder.com/equation?tex=%20%5Clceil%20x%20%5Crceil&preview=true) | ceil(-7.6) (结果为 ![img](https://www.nowcoder.com/equation?tex=-7&preview=true)) |
+|   向下取整   | `floor(x)` | ![img](https://www.nowcoder.com/equation?tex=%20%5Clfloor%20x%20%5Crfloor&preview=true) | floor(-7.6) (结果为 ![img](https://www.nowcoder.com/equation?tex=-8&preview=true)) |
+|   四舍五入   | `round(x)` | ![img](https://www.nowcoder.com/equation?tex=%5B%20x%20%5D&preview=true) | round(-7.6) (结果为 ![img](https://www.nowcoder.com/equation?tex=-8&preview=true)) |
+|    幂函数    | `pow(a,b)` | ![img](https://www.nowcoder.com/equation?tex=a%5Eb&preview=true) | pow(2,6) (结果为 ![img](https://www.nowcoder.com/equation?tex=64&preview=true)) |
