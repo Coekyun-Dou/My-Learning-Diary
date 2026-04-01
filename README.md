@@ -73,13 +73,13 @@
 ### Flag帖
 
 - 下届蓝桥杯国奖
-- MathorCup、美赛拿奖
+- APMCM拿奖 :white_check_mark:
+- 美赛拿奖
 - 优秀学生奖学金 :white_check_mark:
 - 三好学生 :white_check_mark:
 - 优秀学生干部
-- 三好学生标兵
 - 发论文
 - 软考软件设计师
-- 三篇软著​ （目前1篇，1篇在申）
+- 三篇软著​ :white_check_mark:（目前已有3篇，有3篇待申）
 - 六级500+
 - 考研上岸 >>> 中山大学CSE
